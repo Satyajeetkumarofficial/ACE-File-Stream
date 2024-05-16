@@ -46,15 +46,15 @@ or if you're Locally hosting, create a file named `.env` in the root directory a
 An example of `.env` file:
 
 ```py
-DATABASE_URL=  Get this from mongodb.com
+DATABASE_URL=mongodb+srv://satyajeetkumarofficial:Guriya50@cluster0.dmmijuh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 PORT=8080
-API_ID= Get from my.telegram.org
+API_ID=25617967
 NO_PORT=False
-BOT_TOKEN= Get from botfather
-OWNER_ID= your owner id 
-API_HASH= Get from my.telegram.org
+BOT_TOKEN=6832501525:AAFPc8SJvkoc5UJk55Uxn4BlldWuB2tpv3o
+OWNER_ID=6567324192
+API_HASH=10555bea1cdfc7d2303fc13b7fd187cc
 UPDATES_CHANNEL= Enter Force sub channel username without @ if any  else set value to None
-BIN_CHANNEL=-100
+BIN_CHANNEL=-1002018451638
 SESSION_NAME=Codexmania
 HAS_SSL=True
 FQDN= Enter Custom domain if any or server ip
